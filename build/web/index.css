@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-3-21, 15:16:35
+    Author     : yangx
+*/
+.content-footer {
+    margin-top: 20px;
+    border-top: 1px solid #dddddd;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: -20px;
+    padding-left: 20px;
+}
