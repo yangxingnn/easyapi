@@ -2,6 +2,15 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/home/yangx/my-git-projects/easyapi/web/base/base-provider.js</file>
+            <file>file:/home/yangx/my-git-projects/easyapi/web/index-app.js</file>
+            <file>file:/home/yangx/my-git-projects/easyapi/web/base/base-controller.js</file>
+            <file>file:/home/yangx/my-git-projects/easyapi/web/base/base-directive.js</file>
+            <file>file:/home/yangx/my-git-projects/easyapi/web/app/project/index.html</file>
+            <file>file:/home/yangx/my-git-projects/easyapi/web/base/base-service.js</file>
+            <file>file:/home/yangx/my-git-projects/easyapi/web/index.html</file>
+            <file>file:/home/yangx/my-git-projects/easyapi/web/base/base-factory.js</file>
+        </group>
     </open-files>
 </project-private>
